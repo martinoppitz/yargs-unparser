@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://www.github.com/martinoppitz/yargs-unparser/compare/v1.6.0...v1.6.1) (2020-08-25)
+
+
+### Bug Fixes
+
+* test automatic publish ([209a487](https://www.github.com/martinoppitz/yargs-unparser/commit/209a4870af799f4b200c2a89d7b7e50c9fd5fd1f))
+* **deps:** downgrade yargs, such that we continue supporting Node 6 ([#57](https://www.github.com/martinoppitz/yargs-unparser/issues/57)) ([f69406c](https://www.github.com/martinoppitz/yargs-unparser/commit/f69406c34bead63011590f7b51a24a6f311c1a48))
+* **readme:** marketing was injected dubiously into README ([#60](https://www.github.com/martinoppitz/yargs-unparser/issues/60)) ([1167667](https://www.github.com/martinoppitz/yargs-unparser/commit/1167667886fcb103c747e3c9855f353ee0e41c03))
+
 ### [1.6.3](https://www.github.com/yargs/yargs-unparser/compare/v1.6.2...v1.6.3) (2020-06-17)
 
 
